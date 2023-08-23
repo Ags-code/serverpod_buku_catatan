@@ -1,0 +1,6 @@
+class: Harian
+table: harian
+fields: 
+  name: String
+  deskripsi: String
+  isPrime: bool

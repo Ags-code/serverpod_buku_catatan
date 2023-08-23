@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8090,
+            "driver": "PostgreSQL",
+            "password": "9NaXqtG_Kc6N5xL6hxIQ77yazLzbPs1G",
+            "name": "database",
+            "database": "harian",
+            "username": "postgres"
+        }
+    ]
+}

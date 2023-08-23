@@ -1,0 +1,5 @@
+class: Crud
+table: crud
+fields:
+  tittle: String
+  description: String
